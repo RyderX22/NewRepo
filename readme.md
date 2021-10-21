@@ -1,4 +1,4 @@
-#Adam
-##podnadpis
+# Adam
+## podnadpis
 Readme file
-novì vytvoøenı repositáø
+novÄ› vytvoÅ™enÃ½ repositÃ¡Å™
