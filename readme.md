@@ -1,0 +1,4 @@
+#Adam
+##podnadpis
+Readme file
+novì vytvoøený repositáø
